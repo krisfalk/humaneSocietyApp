@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 14.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/CodeGenLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2016-08-26T10:38:20" Importance="High" Text="Code generation or text transformation started." />
+  <Message Timestamp="2016-08-26T10:38:20" Importance="Diagnostic" Text="Name = ClassTemplate" />
+  <Message Timestamp="2016-08-26T10:38:20" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2016-08-26T10:38:20" Importance="Diagnostic" Text="ProjectPath = ..\HumaneSocietyUMLDiagramLib\HumaneSocietyUMLDiagramLib.csproj" />
+  <Message Timestamp="2016-08-26T10:38:20" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2016-08-26T10:38:20" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2016-08-26T10:38:20" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2016-08-26T10:38:20" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2016-08-26T10:38:20" Importance="Medium" Text="HumaneSocietyUMLDiagram's Text Template Binding: 'ClassTemplate' will apply ClassTemplate.t4 to: 'HumaneSocietyUMLDiagram::MainApp' -  (Class), 'HumaneSocietyUMLDiagram::Animal' -  (Class), 'HumaneSocietyUMLDiagram::Dog' -  (Class), 'HumaneSocietyUMLDiagram::Cat' -  (Class), 'HumaneSocietyUMLDiagram::Bird' -  (Class), 'HumaneSocietyUMLDiagram::Cage' -  (Class), 'HumaneSocietyUMLDiagram::Adopter' -  (Class), 'HumaneSocietyUMLDiagram::Store' -  (Class), 'HumaneSocietyUMLDiagram::Database' -  (Class), 'HumaneSocietyUMLDiagram::ReadFile' -  (Class), 'HumaneSocietyUMLDiagram::WriteFile' -  (Class), 'HumaneSocietyUMLDiagram::UserInput' -  (Class), 'HumaneSocietyUMLDiagram::Bank' -  (Class) " />
+  <Message Timestamp="2016-08-26T10:38:31" Importance="Medium" Text="Project Added: C:\Users\Kristofer\Desktop\devCodeCamp\C#\HumaneSocietyApp\HumaneSocietyUMLDiagramLib\HumaneSocietyUMLDiagramLib.csproj" />
+  <Message Timestamp="2016-08-26T10:38:31" Importance="Medium" Text="'HumaneSocietyUMLDiagram::MainApp' -  (Class) : success (file created) - C:\Users\Kristofer\Desktop\devCodeCamp\C#\HumaneSocietyApp\HumaneSocietyUMLDiagramLib\GeneratedCode\MainApp.cs" />
+  <Message Timestamp="2016-08-26T10:38:32" Importance="Medium" Text="'HumaneSocietyUMLDiagram::Animal' -  (Class) : success (file created) - C:\Users\Kristofer\Desktop\devCodeCamp\C#\HumaneSocietyApp\HumaneSocietyUMLDiagramLib\GeneratedCode\Animal.cs" />
+  <Message Timestamp="2016-08-26T10:38:32" Importance="Medium" Text="'HumaneSocietyUMLDiagram::Dog' -  (Class) : success (file created) - C:\Users\Kristofer\Desktop\devCodeCamp\C#\HumaneSocietyApp\HumaneSocietyUMLDiagramLib\GeneratedCode\Dog.cs" />
+  <Message Timestamp="2016-08-26T10:38:32" Importance="Medium" Text="'HumaneSocietyUMLDiagram::Cat' -  (Class) : success (file created) - C:\Users\Kristofer\Desktop\devCodeCamp\C#\HumaneSocietyApp\HumaneSocietyUMLDiagramLib\GeneratedCode\Cat.cs" />
+  <Message Timestamp="2016-08-26T10:38:32" Importance="Medium" Text="'HumaneSocietyUMLDiagram::Bird' -  (Class) : success (file created) - C:\Users\Kristofer\Desktop\devCodeCamp\C#\HumaneSocietyApp\HumaneSocietyUMLDiagramLib\GeneratedCode\Bird.cs" />
+  <Message Timestamp="2016-08-26T10:38:33" Importance="Medium" Text="'HumaneSocietyUMLDiagram::Cage' -  (Class) : success (file created) - C:\Users\Kristofer\Desktop\devCodeCamp\C#\HumaneSocietyApp\HumaneSocietyUMLDiagramLib\GeneratedCode\Cage.cs" />
+  <Message Timestamp="2016-08-26T10:38:33" Importance="Medium" Text="'HumaneSocietyUMLDiagram::Adopter' -  (Class) : success (file created) - C:\Users\Kristofer\Desktop\devCodeCamp\C#\HumaneSocietyApp\HumaneSocietyUMLDiagramLib\GeneratedCode\Adopter.cs" />
+  <Message Timestamp="2016-08-26T10:38:33" Importance="Medium" Text="'HumaneSocietyUMLDiagram::Store' -  (Class) : success (file created) - C:\Users\Kristofer\Desktop\devCodeCamp\C#\HumaneSocietyApp\HumaneSocietyUMLDiagramLib\GeneratedCode\Store.cs" />
+  <Message Timestamp="2016-08-26T10:38:33" Importance="Medium" Text="'HumaneSocietyUMLDiagram::Database' -  (Class) : success (file created) - C:\Users\Kristofer\Desktop\devCodeCamp\C#\HumaneSocietyApp\HumaneSocietyUMLDiagramLib\GeneratedCode\Database.cs" />
+  <Message Timestamp="2016-08-26T10:38:33" Importance="Medium" Text="'HumaneSocietyUMLDiagram::ReadFile' -  (Class) : success (file created) - C:\Users\Kristofer\Desktop\devCodeCamp\C#\HumaneSocietyApp\HumaneSocietyUMLDiagramLib\GeneratedCode\ReadFile.cs" />
+  <Message Timestamp="2016-08-26T10:38:33" Importance="Medium" Text="'HumaneSocietyUMLDiagram::WriteFile' -  (Class) : success (file created) - C:\Users\Kristofer\Desktop\devCodeCamp\C#\HumaneSocietyApp\HumaneSocietyUMLDiagramLib\GeneratedCode\WriteFile.cs" />
+  <Message Timestamp="2016-08-26T10:38:34" Importance="Medium" Text="'HumaneSocietyUMLDiagram::UserInput' -  (Class) : success (file created) - C:\Users\Kristofer\Desktop\devCodeCamp\C#\HumaneSocietyApp\HumaneSocietyUMLDiagramLib\GeneratedCode\UserInput.cs" />
+  <Message Timestamp="2016-08-26T10:38:34" Importance="Medium" Text="'HumaneSocietyUMLDiagram::Bank' -  (Class) : success (file created) - C:\Users\Kristofer\Desktop\devCodeCamp\C#\HumaneSocietyApp\HumaneSocietyUMLDiagramLib\GeneratedCode\Bank.cs" />
+  <Message Timestamp="2016-08-26T10:38:34" Importance="Diagnostic" Text="Name = StructTemplate" />
+  <Message Timestamp="2016-08-26T10:38:34" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2016-08-26T10:38:34" Importance="Diagnostic" Text="ProjectPath = ..\HumaneSocietyUMLDiagramLib\HumaneSocietyUMLDiagramLib.csproj" />
+  <Message Timestamp="2016-08-26T10:38:34" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2016-08-26T10:38:34" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2016-08-26T10:38:34" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2016-08-26T10:38:34" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2016-08-26T10:38:34" Importance="Medium" Text="HumaneSocietyUMLDiagram's Text Template Binding: 'StructTemplate' will apply StructTemplate.t4 to: 'HumaneSocietyUMLDiagram::MainApp' -  (Class), 'HumaneSocietyUMLDiagram::Animal' -  (Class), 'HumaneSocietyUMLDiagram::Dog' -  (Class), 'HumaneSocietyUMLDiagram::Cat' -  (Class), 'HumaneSocietyUMLDiagram::Bird' -  (Class), 'HumaneSocietyUMLDiagram::Cage' -  (Class), 'HumaneSocietyUMLDiagram::Adopter' -  (Class), 'HumaneSocietyUMLDiagram::Store' -  (Class), 'HumaneSocietyUMLDiagram::Database' -  (Class), 'HumaneSocietyUMLDiagram::ReadFile' -  (Class), 'HumaneSocietyUMLDiagram::WriteFile' -  (Class), 'HumaneSocietyUMLDiagram::UserInput' -  (Class), 'HumaneSocietyUMLDiagram::Bank' -  (Class) " />
+  <Message Timestamp="2016-08-26T10:38:34" Importance="Diagnostic" Text="'HumaneSocietyUMLDiagram::MainApp' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-08-26T10:38:34" Importance="Diagnostic" Text="'HumaneSocietyUMLDiagram::Animal' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-08-26T10:38:34" Importance="Diagnostic" Text="'HumaneSocietyUMLDiagram::Dog' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-08-26T10:38:34" Importance="Diagnostic" Text="'HumaneSocietyUMLDiagram::Cat' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-08-26T10:38:34" Importance="Diagnostic" Text="'HumaneSocietyUMLDiagram::Bird' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-08-26T10:38:34" Importance="Diagnostic" Text="'HumaneSocietyUMLDiagram::Cage' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-08-26T10:38:34" Importance="Diagnostic" Text="'HumaneSocietyUMLDiagram::Adopter' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-08-26T10:38:34" Importance="Diagnostic" Text="'HumaneSocietyUMLDiagram::Store' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-08-26T10:38:34" Importance="Diagnostic" Text="'HumaneSocietyUMLDiagram::Database' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-08-26T10:38:34" Importance="Diagnostic" Text="'HumaneSocietyUMLDiagram::ReadFile' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-08-26T10:38:34" Importance="Diagnostic" Text="'HumaneSocietyUMLDiagram::WriteFile' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-08-26T10:38:34" Importance="Diagnostic" Text="'HumaneSocietyUMLDiagram::UserInput' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-08-26T10:38:35" Importance="Diagnostic" Text="'HumaneSocietyUMLDiagram::Bank' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-08-26T10:38:35" Importance="Diagnostic" Text="The selection included 13 elements which were not bound to a template." />
+  <Message Timestamp="2016-08-26T10:38:35" Importance="Diagnostic" Text="'ebff59d8-1751-4e4c-9c3f-6459dcf940aa' -  (Generalization): no bound template." />
+  <Message Timestamp="2016-08-26T10:38:35" Importance="Diagnostic" Text="'4400b8d8-06b4-4b75-88d1-134ec589269a' -  (Generalization): no bound template." />
+  <Message Timestamp="2016-08-26T10:38:35" Importance="Diagnostic" Text="'241e55e4-7e9b-460e-9e02-a9df10755a09' -  (Generalization): no bound template." />
+  <Message Timestamp="2016-08-26T10:38:35" Importance="Diagnostic" Text="'HumaneSocietyUMLDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2016-08-26T10:38:35" Importance="Diagnostic" Text="'HumaneSocietyUMLDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2016-08-26T10:38:35" Importance="Diagnostic" Text="'HumaneSocietyUMLDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2016-08-26T10:38:35" Importance="Diagnostic" Text="'HumaneSocietyUMLDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2016-08-26T10:38:35" Importance="Diagnostic" Text="'HumaneSocietyUMLDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2016-08-26T10:38:35" Importance="Diagnostic" Text="'HumaneSocietyUMLDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2016-08-26T10:38:35" Importance="Diagnostic" Text="'HumaneSocietyUMLDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2016-08-26T10:38:35" Importance="Diagnostic" Text="'HumaneSocietyUMLDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2016-08-26T10:38:35" Importance="Diagnostic" Text="'HumaneSocietyUMLDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2016-08-26T10:38:35" Importance="Diagnostic" Text="'HumaneSocietyUMLDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2016-08-26T10:38:35" Importance="High" Text="Code generation complete. Errors: 0. Warnings: 0." />
+</Log>
